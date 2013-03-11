@@ -1,6 +1,5 @@
 Click "[English Resume](https://github.com/yaochiqkl/RESUME/blob/master/English_resume.md)"  to browse the English version
 
-
 **李双壮**	
 应聘岗位：Web前端开发工程师	  
 性别：男     年龄：21     学校：电子科技大学    
