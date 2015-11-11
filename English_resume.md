@@ -1,9 +1,12 @@
-Double Li 	
-Target Job：Intern   
+  查看中文简历请点击“[RESUME-CN](https://github.com/yaochiqkl/RESUME)”      
+
+
+**Double Li**	
+Target Job: Intern of the web development  
 (+86) 186-0286-2803   
 lishuangzhuang@gmail.com   
 QQ/Weixin：301100849   
-Personal Blog：yaochiqkl.github.io   
+Personal Blog：[yaochiqkl.github.io](yaochiqkl.github.io) 
 ### Professional Skills
 	Love and focus on the development of the web application , master the knowledge of JavaScript, HTML, CSS and JavaScript frames to establish web application.
 	• Aquired class libraries：jQuery、Prototype
