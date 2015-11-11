@@ -38,8 +38,8 @@ Personal Blog：yaochiqkl.github.io
 	CET4（Excellent Level） CET6（Excellent Level）  NCRE 2	
 ***
 ### Hobbies , Expertise and self-evaluation
-	• Enjoy digging in the knowledge about the Front End.
-        • Love to surf in the forum such as StackOverflow and github .
+	• Enjoy digging in the knowledge about the Front End .
+	• Love to surf in the forum such as StackOverflow and github .
 	• Love learning new technical stuffs , willing to learn and share .
 	• Full of passion and entusiasim , broad interests and good at communication.
 
