@@ -1,3 +1,6 @@
+Click "[English Resume](https://github.com/yaochiqkl/RESUME/blob/master/English_resume.md)"  to browse the English version
+
+
 **李双壮**	
 应聘岗位：Web前端开发工程师	  
 (+86) 186-0286-2803	  
