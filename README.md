@@ -8,7 +8,8 @@ lishuangzhuang@gmail.com
 QQ/Weixin：301100849	  
 个人博客：yaochiqkl.github.io	
 ### 专业技能	
-	专注并且热爱web开发，熟练掌握JavaScript、HTMl、CSS以及JavaScript框架来搭建web应用。了解原生JavaScript和JavaScript类库的使用。	
+	专注并且热爱web开发，熟练掌握JavaScript、HTMl、CSS以及JavaScript框架来搭建web应用。
+	了解原生JavaScript和JavaScript类库的使用。	
 	• 掌握的JavaScript类库：jQuery、Prototype	
 	• 掌握项目管理和协同工具的使用：Git 	
 	• 掌握的CSS预编译器：Less、Sass 	
