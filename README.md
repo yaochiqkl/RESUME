@@ -43,4 +43,4 @@ QQ/Weixin：301100849
 ### 特长爱好	
 	喜欢钻研前端领域，泡开发谈论（CSDN等）	
 	喜欢学习新技术，乐于分享和探究。	
-	喜欢逛Qura、Gihub、StackOverflow等相关网站	
+	喜欢逛Quora、Github、StackOverflow等相关网站	
