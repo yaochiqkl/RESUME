@@ -15,7 +15,6 @@ Personal Blog：[yaochiqkl.github.io](yaochiqkl.github.io)
 	• Know all about relavent frames：Bootstrap、 Angular.js
 	• Know about buiding tool and others：Bower、Yoman、Grunt、Gulp
 	• Comprehenstion of Back-end development ：NodeJS、JSP
-	• web relavent techonologies ：MongoDB、SEO、Express
 ***
 ### Web Front-end relavent development Experience
 #### 2015.03-2015.08          	Knowledge and Data Engineering laboratory of Chinese Medcine      
