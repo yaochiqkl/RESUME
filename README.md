@@ -39,9 +39,9 @@ Click "[English Resume](https://github.com/yaochiqkl/RESUME/blob/master/English_
 	•	负责前端和后端的衔接（JSP）	
 	•	网址：http://kdecm.uestc.edu.cn/	
 ####    单页面应用——完形填空
-	•	动态判断解析
+	•	在线填写完形填空，随机化选项
 	•	数据皆由解析JSON以及JS实现动态交互
-	•	动态判断对错、插入正确答案、拖拽、判分等复杂细节实现
+	•	动态判断对错、插入正确答案和解析、拖拽、判分等实现
 	•	网址：https://github.com/yaochiqkl/FillInTheBlank
 ####    基于PHP的全栈开发——视频识别系统
 	•	为一套视频识别系统实现的网站应用
