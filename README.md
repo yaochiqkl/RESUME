@@ -3,13 +3,12 @@ Click "[English Resume](https://github.com/yaochiqkl/RESUME/blob/master/English_
 
 **李双壮**	
 应聘岗位：Web前端开发工程师	  
-性别：男    年龄：21    学校：电子科技大学    
+性别：男     年龄：21     学校：电子科技大学    
 联系方式：186-0286-2803	 lishuangzhuang@gmail.com  
 个人博客：[yaochiqkl.github.io](http://yaochiqkl.github.io)	
 ### 专业技能	
-	专注并且热爱web开发，熟练掌握JavaScript、HTMl、CSS以及JavaScript框架来搭建web应用。
-	了解原生JavaScript和JavaScript类库的使用。	
-	• 掌握的JavaScript类库：jQuery、Prototype	
+	专注并且热爱web开发，熟练掌握JavaScript、HTMl、CSS以及JavaScript框架来搭建web应用。了解原生JavaScript和JavaScript类库的使用。	
+	• 掌握的JavaScript类库：jQuery
 	• 掌握项目管理和协同工具的使用：Git 	
 	• 掌握的CSS预编译器：MCSS、Less、Sass 	
 	• 了解的相关框架：Bootstrap、Regular 、JQuery UI 、 Angular.js	
@@ -17,7 +16,7 @@ Click "[English Resume](https://github.com/yaochiqkl/RESUME/blob/master/English_
 	• 了解基本后端开发：NodeJS、JSP	
 ****
 ###  实习经历	
-#### 2016.01-PRESENT    网易（杭州研究院） 	前端开发实习生   
+#### 2016.01-至今    网易（杭州研究院） 	前端开发实习生   
 	•	to be continued
 #### 2015.11-2016.01	百词斩（成都超有爱科技有限公司） 	前端开发实习生   
 	•	产品经理各种Demo的实现、动画效果展示
