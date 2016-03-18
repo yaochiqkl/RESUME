@@ -7,12 +7,12 @@ Click "[English Resume](https://github.com/yaochiqkl/RESUME/blob/master/English_
 个人博客：[yaochiqkl.github.io](http://yaochiqkl.github.io)	
 ### 专业技能	
 	专注并且热爱web开发，熟练掌握JavaScript、HTMl、CSS以及JavaScript框架来搭建web应用。了解原生JavaScript和JavaScript类库的使用。	
-	• 掌握的JavaScript类库：jQuery
+	• 掌握的JavaScript类库：jQuery 、Zepto.js
 	• 掌握项目管理和协同工具的使用：Git 	
 	• 掌握的CSS预编译器：MCSS、Less、Sass 	
-	• 了解的相关框架：Bootstrap、Regular 、JQuery UI 、 React
-	• 了解的项目构建、依赖工具：Bower、Yoman、Grunt、Gulp	
-	• 了解基本后端开发：NodeJS、JSP	
+	• 了解的相关框架：Bootstrap、Regular.js 、JQuery UI 、 React.js
+	• 了解的项目构建、依赖工具：Bower、Yoman、Grunt、Gulp、Webpack
+	• 了解基本后端开发：NodeJS、JSP	、PHP
 ****
 ###  实习经历	
 #### 2016.01-至今    网易（杭州研究院） 	前端开发实习生   
