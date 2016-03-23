@@ -12,7 +12,7 @@ Click "[English Resume](https://github.com/yaochiqkl/RESUME/blob/master/English_
 	• 掌握的CSS预编译器：MCSS、Less、Sass 	
 	• 掌握的的相关框架：Bootstrap、Regular.js 、JQuery UI 、 React.js
 	• 了解的项目构建、依赖工具：Bower、Yoman、Grunt、Gulp、Webpack
-	• 了解基本后端开发：NodeJS、JSP	、PHP
+	• 了解基本后端开发：NodeJS、JSP	、PHP、Ruby
 ****
 ###  实习经历	
 #### 2016.01-至今    网易（杭州研究院） 	前端开发实习生   
