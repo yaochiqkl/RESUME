@@ -1,9 +1,9 @@
 Click "[English Resume](https://github.com/yaochiqkl/RESUME/blob/master/English_resume.md)"  to browse the English version
 
-**李双壮**	
+**李xx**	
 应聘岗位：Web前端开发工程师	  
 性别：男     年龄：21     学校：电子科技大学    
-联系方式：186-0286-2803	 lishuangzhuang@gmail.com  
+联系方式：xx	 lishuangzhuang@gmail.com  
 个人博客：[yaochiqkl.github.io](http://yaochiqkl.github.io)	
 ### 专业技能	
 	专注并且热爱web开发，熟练掌握JavaScript、HTMl、CSS以及JavaScript框架来搭建web应用。了解原生JavaScript和JavaScript类库的使用。	
